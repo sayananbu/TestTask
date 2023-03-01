@@ -1,0 +1,15 @@
+C:\Users\Hyrule\source\repos\PrayForOffer\bin\Debug\net7.0\PrayForOffer.exe
+C:\Users\Hyrule\source\repos\PrayForOffer\bin\Debug\net7.0\PrayForOffer.deps.json
+C:\Users\Hyrule\source\repos\PrayForOffer\bin\Debug\net7.0\PrayForOffer.runtimeconfig.json
+C:\Users\Hyrule\source\repos\PrayForOffer\bin\Debug\net7.0\PrayForOffer.dll
+C:\Users\Hyrule\source\repos\PrayForOffer\bin\Debug\net7.0\PrayForOffer.pdb
+C:\Users\Hyrule\source\repos\PrayForOffer\obj\Debug\net7.0\PrayForOffer.csproj.AssemblyReference.cache
+C:\Users\Hyrule\source\repos\PrayForOffer\obj\Debug\net7.0\PrayForOffer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyrule\source\repos\PrayForOffer\obj\Debug\net7.0\PrayForOffer.AssemblyInfoInputs.cache
+C:\Users\Hyrule\source\repos\PrayForOffer\obj\Debug\net7.0\PrayForOffer.AssemblyInfo.cs
+C:\Users\Hyrule\source\repos\PrayForOffer\obj\Debug\net7.0\PrayForOffer.csproj.CoreCompileInputs.cache
+C:\Users\Hyrule\source\repos\PrayForOffer\obj\Debug\net7.0\PrayForOffer.dll
+C:\Users\Hyrule\source\repos\PrayForOffer\obj\Debug\net7.0\refint\PrayForOffer.dll
+C:\Users\Hyrule\source\repos\PrayForOffer\obj\Debug\net7.0\PrayForOffer.pdb
+C:\Users\Hyrule\source\repos\PrayForOffer\obj\Debug\net7.0\PrayForOffer.genruntimeconfig.cache
+C:\Users\Hyrule\source\repos\PrayForOffer\obj\Debug\net7.0\ref\PrayForOffer.dll
